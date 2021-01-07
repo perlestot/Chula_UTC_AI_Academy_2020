@@ -94,7 +94,7 @@ lazy-object-proxy==1.4.3
 lifelines==0.24.4
 llvmlite==0.31.0
 lockfile==0.12.2
-lxml==4.5.0
+lxml==4.6.2
 Mako==1.1.0
 Markdown==3.2.1
 MarkupSafe==1.1.1
