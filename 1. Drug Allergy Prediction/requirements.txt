@@ -158,7 +158,7 @@ pydicom==1.4.2
 pydocstyle==4.0.1
 pydotplus==2.0.2
 pyflakes==2.1.1
-Pygments==2.4.2
+Pygments==2.7.4
 pygpu==0.7.6
 PyHyphen==3.0.1
 pylint==2.4.4
