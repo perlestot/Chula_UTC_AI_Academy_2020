@@ -1,6 +1,7 @@
 # Chulalongkorn University's AI Academy 2020
 ## 2nd round screening exam
 ### The contestant is Parin Kittipongdaja
+https://www.cutechcenter.com/aiacademy.html
 ---
 
 # IMPORTANT NOTICE
